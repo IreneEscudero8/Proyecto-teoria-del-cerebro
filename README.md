@@ -3,9 +3,9 @@
 
 **Integrantes:** 
 
-Camila Villavicencio Zaldivar 
+* Camila Villavicencio Zaldivar 
 
-Irene Escudero Cázarez   
+* Irene Escudero Cázarez   
 
 **Materia:** Teoría del Cerebro y Neuroinformática
 
